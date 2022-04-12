@@ -3,4 +3,4 @@
 
  Estou aprendendo a usar o Git e GitHub
 
-<a href="https://gabrielsantospds.github.io/desafios/d010-1/android">Abrir o site sobre o Android</a>
+<a href="https://gabrielsantospds.github.io/desafios/d010-1/android" target="_blank">Abrir o site sobre o Android</a>
